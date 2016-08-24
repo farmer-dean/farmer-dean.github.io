@@ -25,4 +25,4 @@ He specializes in:
 * Farmer Dean's Latest Post On [CraigsList]()
 * Check out Dean's [Facebook](https://www.facebook.com/clark.weckmann.3)!
 
- ![https://img.shields.io/badge/Patreon-%240-orange.svg](https://patreon.com/user?u=3293031)
+ ![https://farmer-dean.github.io/bagdes/Patreon-$0-orange.svg](https://patreon.com/user?u=3293031)
